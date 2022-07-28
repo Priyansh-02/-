@@ -388,17 +388,19 @@ footer > h1 {
 	}
 
 	.img-1 {
-		width: 90%;
+		/*width: 90%;
 		height: 26%;
 		margin-left: 1rem;
-		margin-top: -2rem;
+		margin-top: -2rem;*/
+		display: none;
 	}
 
 	.img-2 {
-		width: 90%;
+		/*width: 90%;
 		height: 26%;
 		margin-left: 1rem;
-		margin-top: -8rem;
+		margin-top: -8rem;*/
+		display: none;
 	}
 
 	.des-h1 {
@@ -454,7 +456,7 @@ footer > h1 {
 	}
 
 	.div-work-img {
-		display: block;
+		display: table-cell;
 		padding: 0;
 	}
 
