@@ -305,7 +305,7 @@ footer > h1 {
 
 }
 
-@media all(max-width: 375px) {
+@media (max-width: 768px) {
 
 	html {
 		background-color: white;
