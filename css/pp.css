@@ -440,7 +440,7 @@ footer > h1 {
 
 	.column-1, .column-2, .column-3 {
 		width: 10%;
-		display: table-column;
+		display: table-row;
 		margin-left: 8rem;
 		margin-bottom: 2rem;
 	}
