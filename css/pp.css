@@ -320,6 +320,7 @@ footer > h1 {
 		background-image: none;
 		z-index: 1;
 		padding-bottom: 10rem;
+		height: 50rem;
 	}
 
 	.navbar {
@@ -330,10 +331,19 @@ footer > h1 {
 	.nav-brand {
 		text-align: center;
 		font-weight: 400;
+		margin-left: 6rem;
 	}
 
 	.nav-ul > li > a {
 		display: none;
+	}
+	
+	.div-main {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		margin-top: 2rem;
 	}
 
 	.main-h1 {
@@ -359,7 +369,7 @@ footer > h1 {
 	.main-btn {
 		color: white;
 		font-size: 0.4rem;
-		margin-left: 14rem;
+		margin-left: 0.6rem;
 	}
 
 	.main-btn:hover {
