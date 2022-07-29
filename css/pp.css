@@ -17,6 +17,7 @@ body {
 main {
 	width: 100%;
 	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 /* navbar styling */
@@ -321,6 +322,7 @@ footer > h1 {
 		z-index: 1;
 		padding-bottom: 10rem;
 		height: 60rem;
+		background-attachment: fixed;
 	}
 
 	.navbar {
@@ -392,7 +394,7 @@ footer > h1 {
 		background-color: white;
 		height: 20rem;
 		z-index: -1;
-		padding-top: 6rem;
+		padding-top: 20rem;
 		padding-bottom: 14rem;
 	}
 
